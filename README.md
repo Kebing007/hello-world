@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+=====
+
+Hi People!
+Kebing is here, this is my first try.
